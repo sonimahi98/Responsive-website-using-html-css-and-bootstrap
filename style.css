@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.carousel-item{
+    height:80vh;
+    width:100%;
+}
+
+/* .card-body-img{
+    height: 20rem;
+    width:20rem;
+    
+    border-radius: 50%;
+} */
+
